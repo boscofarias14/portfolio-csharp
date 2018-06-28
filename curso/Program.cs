@@ -102,7 +102,7 @@ namespace curso {
                         Console.Write("Fim da execução do programa!");
                         break;
                     default:
-                        Console.WriteLine("Opção Inválida. O programa será finalizado");
+                        Console.WriteLine("Opção Inválida!");
                         break;
                 }
                 Console.ReadLine();
