@@ -42,8 +42,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="dominio\Acessorio.cs" />
+    <Compile Include="dominio\Carro.cs" />
+    <Compile Include="dominio\Marca.cs" />
+    <Compile Include="dominio\ModelException.cs" />
+    <Compile Include="Operacoes.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Tela.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
